@@ -17,6 +17,6 @@ I can create links. Hence, here is my [email](rafaelafrikyan95@gmail.com) <img s
 Let's create a **table**.
 
 | First colum   | Second colum   | third Colum|
-| --------------------------------------------|
+| --------------| :------------: |-----------:|
 | Apple         | Pineapple      | Tomato     |
 | Green         | Yellow         | Red        |
