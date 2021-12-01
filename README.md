@@ -13,3 +13,10 @@ It can possible also create unordered list like
     - three
 
 I can create links. Hence, here is my [email](rafaelafrikyan95@gmail.com) <img src="https://mpng.subpng.com/20180718/vws/kisspng-email-logo-bounce-address-computer-icons-message-online-application-5b4f433eed6ac1.5937710415319212149725.jpg" alt="drawing" width="40"/>
+
+Let's create a **table**.
+
+| First colum   | Second colum   | third Colum|
+| --------------------------------------------|
+| Apple         | Pineapple      | Tomato     |
+| Green         | Yellow         | Red        |
